@@ -1,0 +1,29 @@
+div#principal{
+	margin:auto;
+	width:80%;
+	height:80%;
+	border:5px outset black;
+}
+div#btniz img{
+	float:left;
+	max-width:50%;
+	height:50%;
+	cursor:pointer;
+}
+div#divimagen{
+	float:left;
+	width:50%;
+	height:100%;	
+}
+div#divimagen img{
+	width:100%;
+	height:100%;	
+}
+div#btnder img{
+	position:relative;
+	top:0px;
+	right:1px;
+	max-width:50%;
+	height:50%;
+	cursor:pointer;
+}
